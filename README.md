@@ -60,7 +60,7 @@
     <source src="C:\Users\Ferchito\Desktop\Pagina Retakazo\Imagenes Pagina\SaveInsta.App - 3125334385461283260_7145066119.mp4" type="video/mp4">
     Tu navegador no admite el elemento de video.
   </video>
-  <img class="media-item" src="C:\Users\Ferchito\Desktop\Pagina Retakazo\Imagenes Pagina\PXL_20230616_034103141.PORTRAIT.jpg" alt="Imagen 2">
+  <img class="media-item" src="278161215_314013524150358_7260698097020717068_n.webp" alt="Imagen 2">
   <video class="media-item">
     <source src="2023-07-17-201825459.mp4" type="video/mp4">
     Tu navegador no admite el elemento de video.
