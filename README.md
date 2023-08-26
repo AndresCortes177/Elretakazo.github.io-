@@ -55,7 +55,7 @@
 </head>
 <body>
 <div id="content">
-  <img class="media-item" src="C:\Users\Ferchito\Desktop\Pagina Retakazo\Imagenes Pagina\PXL_20230616_034103141.PORTRAIT.jpg" alt="Imagen 1">
+  <img class="media-item" src="PXL_20230616_034103141.PORTRAIT.jpg" alt="Imagen 1">
   <video class="media-item">
     <source src="C:\Users\Ferchito\Desktop\Pagina Retakazo\Imagenes Pagina\SaveInsta.App - 3125334385461283260_7145066119.mp4" type="video/mp4">
     Tu navegador no admite el elemento de video.
