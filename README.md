@@ -62,7 +62,7 @@
   </video>
   <img class="media-item" src="C:\Users\Ferchito\Desktop\Pagina Retakazo\Imagenes Pagina\PXL_20230616_034103141.PORTRAIT.jpg" alt="Imagen 2">
   <video class="media-item">
-    <source src="C:\Users\Ferchito\Desktop\Pagina Retakazo\Imagenes Pagina\SaveInsta.App - 2579550455999716828.mp4" type="video/mp4">
+    <source src="2023-07-17-201825459.mp4" type="video/mp4">
     Tu navegador no admite el elemento de video.
   </video>
 </div>
